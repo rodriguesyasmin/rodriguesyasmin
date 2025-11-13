@@ -1,27 +1,45 @@
-## Yasmin here! Collège de Maisonneuve web dev student. 
-
-I currently live in Montréal, Canada. 🍁
-
-I'm learning and exploring the world of programming. 👨‍💻💻🚀
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesyasmin)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi, I'm Yasmin Rodrigues</h1>
+<h3 align="center"> Montréal, QC</h3>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="icon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="icon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon--CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon--CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="icon-Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 
-</div>
- 
-  ## 
-  
-<div>
-  <a href="https://www.linkedin.com/in/rodriguesyasmin" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:rodrigueesyasmin@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FB3B8&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Developer+%7C+;" alt="Typing SVG" />
+</p>
+
+---
+
+- 🎓 Graduated in **Conception et Programmation de Sites Web – Collège de Maisonneuve**
+- 💼 Experience as **Full Stack Developer** at WinTechnologie (2024–2025)
+- 🧩 Skills include **React, Node.js, Express.js, PHP, MySQL, MongoDB, SASS, Git/GitHub**
+- 🔧 Agile/Scrum work environment experience
+- 📫 Reach me via: **rodrigueesyasmin@hotmail.com**
+- ✨ Fun fact: I love learning new technologies and building real projects!
+
+---
+
+### Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodriguesyasmin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,php,sass,html,css,mysql,mongodb,git,github,postman,vscode" />
+</p>
+
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile! 🚀</strong><br/>
+  <em>Always learning, always building.</em>
+</p>
 
 
